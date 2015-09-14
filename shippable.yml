@@ -8,7 +8,7 @@ node_js:
 env:
     global:
         - XUNIT_FILE=./shippable/testresults/result.xml
-        - secure: up8A0LMAu8JD+3TBrNCHl2qoCkChOapzDJdaofRjtDksoJ8XoyXCFBantjxNT2S/8tRIjHYemlzMTZq0tO8Z0HPBI7DCTnAcKokWHZMz3ZShQL1+XmPAQ+FAQvyPjWhJ2NerWcJSyeFlErws/HZcOFkxdR08LDZZyQi9duqbAmNNEVgTtD8l8jAttXSh7z28S7wyZoUOUw6WkFAZMrJ0f1V36rdMtELfoJxMQvz650nZhvyorALfQTI9DspAl+gHQY2YFbUeb8PN0O0/CJeMWPRBAjmWMUWYY/ZJUpcn7eeunToUx4dFNZ6VsGErImU+63/SVdp/zX6q1wjt+IGdaQ==
+        - secure: rx2FpgDZSSABzq5rRdKb+Hrtm4bPGudy9cjFSjvQfLGCleXAkzi6uJP+vLUpG/w1iQSnvtCIqFMVdXEImTaKq2SBY8DOpOcP5ycgSTRCa/rYFKa9Spv+VzZ18CFVUts7riIzw3wYWrWT+yiJJ2pPq+BzZ7gPjRzrhfzLeDhbt0iHqhVBz52s1yVirvUvd3O49O4bvVUFxRbDeu2cfQYzop95gG7d9Mx2BEsSWXu1uhsN4TQhiKaIVXRXIuC5fblCMeAzjzukMR0fEPsd6JFmmIpJDkFsTjWeDkkURIrbt/kAseH9+pzcNrYpZl2638P77+HFL2pwTiNdQWPoAYdZSw==
         #
         # TOKEN is a GitHub token for the subscription triggering the build
 
