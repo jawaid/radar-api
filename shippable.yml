@@ -8,7 +8,8 @@ node_js:
 env:
     global:
         - XUNIT_FILE=./shippable/testresults/result.xml
-        - secure: BRrjFrsUsElgVhbQlnBSQVto7M7Cy8CWqYL9Kwl4sOLf7YfvKL+J8wFKggWhW7aMyQplpU1zguHWoluB/sOiV/XCLqy0xYeY8f437Ba0c6VkC3KoWQMLTW14P3hAnNR+qz0KL7vskRI/PIXCTF2MI4/M+vVq52I7rQGhOY92x1J4Fat/RuKfSJ18HDaevuBjeWVlQY3jsX0VHpTLNUnZr6XuSWzdt73+/OCOEVNcjM7S+g+8ohf1O7i7bLQhINuoOpGOoPsO577P3MslZ7+//AU3Byz6k04KVfnx9ysobY3EGTkRS9/v9t7Nc9jxcyB0GIXjFI1/yPINgGli3TJ7tw==
+        - secure: up8A0LMAu8JD+3TBrNCHl2qoCkChOapzDJdaofRjtDksoJ8XoyXCFBantjxNT2S/8tRIjHYemlzMTZq0tO8Z0HPBI7DCTnAcKokWHZMz3ZShQL1+XmPAQ+FAQvyPjWhJ2NerWcJSyeFlErws/HZcOFkxdR08LDZZyQi9duqbAmNNEVgTtD8l8jAttXSh7z28S7wyZoUOUw6WkFAZMrJ0f1V36rdMtELfoJxMQvz650nZhvyorALfQTI9DspAl+gHQY2YFbUeb8PN0O0/CJeMWPRBAjmWMUWYY/ZJUpcn7eeunToUx4dFNZ6VsGErImU+63/SVdp/zX6q1wjt+IGdaQ==
+        #
         # TOKEN is a GitHub token for the subscription triggering the build
 
 before_install:
