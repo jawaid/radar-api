@@ -5,6 +5,8 @@ API for simple node application to view issues on github. Communicates with gith
 [![Build Status](https://api.shippable.com/projects/55fc407358124d0d00997f0d/badge?branchName=master)](https://img.shields.io/shippable/55fc407358124d0d00997f0d.svg)
 [![Build Status](https://api.shippable.com/projects/55fc407358124d0d00997f0d/badge?branchName=master)](https://app.shippable.com/projects/55fc407358124d0d00997f0d/builds/latest)
 [![Build Status](https://api.shippable.com/projects/550a83015ab6cc1352a4c97c/badge?branchName=master)](https://app.shippable.com/projects/550a83015ab6cc1352a4c97c/builds/latest) 
+# New Badge
+[![Build Status](https://api.shippable.com/projects/55fc407358124d0d00997f0d/badge?branchName=master)](https://app.shippable.com/projects/55fc407358124d0d00997f0d/builds/latest) 
 
 # Environmental variables
 
