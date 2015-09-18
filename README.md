@@ -2,7 +2,8 @@
 
 API for simple node application to view issues on github. Communicates with github API. By default, runs on port 3001.
 
-https://api.shippable.com/projects/55fc407358124d0d00997f0d/badge/master
+[![build](https://api.shippable.com/projects/55fc407358124d0d00997f0d/badge/master)]  (https://img.shields.io/shippable/55fc407358124d0d00997f0d.svg)
+
 # Environmental variables
 
 - API_PORT: To run on a specified port (default: 3001). Make sure that the front end is gets the change accordingly
